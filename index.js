@@ -1,5 +1,5 @@
-function designwizard(options) {
-    let images = document.querySelectorAll(".design-wizard")
+function designer(options) {
+    let images = document.querySelectorAll("designer")
 
     if (options.shadow_type === "hard")
         options.shadow_type === "0px"
@@ -14,4 +14,4 @@ function designwizard(options) {
         image.style.padding === "1em"
 }
 
-module.exports.designwizard = designwizard;
+module.exports.designer = designer;
