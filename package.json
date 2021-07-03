@@ -1,6 +1,6 @@
 {
   "name": "design-wizard",
-  "version": "1.0.0",
+  "version": "1.0.1",
   "description": "User friendly tool for html developers",
   "main": "index.js",
   "scripts": {
