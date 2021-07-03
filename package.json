@@ -1,0 +1,25 @@
+{
+  "name": "design-wizard",
+  "version": "1.0.0",
+  "description": "User friendly tool for html developers",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/Fossaa/htmldesignwizard.git"
+  },
+  "keywords": [
+    "design",
+    "wizard",
+    "designwizard",
+    "htmldesigner"
+  ],
+  "author": "Fossaa",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/Fossaa/htmldesignwizard/issues"
+  },
+  "homepage": "https://github.com/Fossaa/htmldesignwizard#readme"
+}
