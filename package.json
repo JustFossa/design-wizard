@@ -8,7 +8,7 @@
   },
   "repository": {
     "type": "git",
-    "url": "git+https://github.com/Fossaa/htmldesignwizard.git"
+    "url": "git+https://github.com/Fossaa/design-wizard.git"
   },
   "keywords": [
     "design",
@@ -19,7 +19,7 @@
   "author": "Fossaa",
   "license": "ISC",
   "bugs": {
-    "url": "https://github.com/Fossaa/htmldesignwizard/issues"
+    "url": "https://github.com/Fossaa/design-wizard/issues"
   },
-  "homepage": "https://github.com/Fossaa/htmldesignwizard#readme"
+  "homepage": "https://github.com/Fossaa/design-wizard#readme"
 }
