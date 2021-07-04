@@ -20,7 +20,10 @@ Best html developer's helper. It makes every styling for you website alot easier
 >shadow: ,//boolean (true or false) required
 >shadow_type: ,// string (hard, medium, soft) optional - if not described shadow will be medium
 >shadow_color: ,// string (rgba value) optional - if not described shadow will be black
->
+>border: , // boolean (true or false) required
+>border_color: , // string (hex value) optional - if not described black color weill be used
+>border_style: , // string (style of the border) optional - if not described border will be solid
+>border_width: , // string (width of border) optional - if not described border will be 5px thick
 >   // all options and examples are described in documentation      
 >})
 >```
