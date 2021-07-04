@@ -7,6 +7,7 @@ Best html developer's helper. It makes every styling for you website alot easier
 
 >
 >```
+>
 >npm install design-wizard
 >```
 >
