@@ -1,7 +1,7 @@
 {
   "name": "design-wizard",
-  "version": "1.0.6",
-  "description": "User friendly tool for html developers",
+  "version": "1.0.7",
+  "description": "User friendly tool for html and css developers",
   "main": "index.js",
   "scripts": {
     "test": "echo \"Error: no test specified\" && exit 1"
@@ -11,10 +11,6 @@
     "url": "git+https://github.com/Fossaa/design-wizard.git"
   },
   "keywords": [
-    "design",
-    "wizard",
-    "designwizard",
-    "htmldesigner"
   ],
   "author": "Fossaa",
   "license": "ISC",

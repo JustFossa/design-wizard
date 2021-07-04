@@ -15,9 +15,13 @@ Best html developer's helper. It makes every styling for you website alot easier
 >import { designer } from "design-wizard"
 >
 >designer({
->   shadow_style: , //hard or soft - required
->   padding: , // true or false - required
->   thickness: //thickness of the padding (can be written in: em, px...) - optional (if not described padding will  be 1em thick)      
+>padding: ,//boolean (true or false) required
+>padding_size: , // string (must be written in css values - em, px...) optional - if not described padding will be 1em thick
+>shadow: ,//boolean (true or false) required
+>shadow_type: ,// string (hard, medium, soft) optional - if not described shadow will be medium
+>shadow_color: ,// string (rgba value) optional - if not described shadow will be black
+>
+>   // all options and examples are described in documentation      
 >})
 >```
 >

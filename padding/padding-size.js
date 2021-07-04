@@ -1,8 +1,12 @@
 function size() {
     let padding = localStorage.getItem("padding")
     let thickness = localStorage.getItem("thickness")
-    console.log(padding)
-    console.log(thickness)
+
+    if(padding === "true") {
+    console.log(`✅ | Padding was enabled`)
+    console.log(`✅ | Padding size was set to: ${thickness}`)
+    } else console.log(`❌ | Padding was diabled`)
+
     let images = document.querySelectorAll(".padding")
 
 
