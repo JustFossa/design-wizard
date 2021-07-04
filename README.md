@@ -5,12 +5,12 @@ Best html developer's helper. It makes every styling for you website alot easier
 
 ## Installation
 
-
+>
 >```
 >npm install design-wizard
 >```
 >
->your .js file to describe options for designer
+>your **.js** file to describe options for designer
 >```js
 >import { designer } from "design-wizard"
 >
@@ -20,10 +20,17 @@ Best html developer's helper. It makes every styling for you website alot easier
 >   thickness: //thickness of the padding (can be written in: em, px...) - optional (if not described padding will  be 1em thick)      
 >})
 >```
+>
+>your **.html** file
+>```html
+> some code here...
+> <script src="path to your options file"></script>
+>```
+
 
 ## Documentation
 
-Full documentation can be found here: https://docs.fossaa.tk *soon*
+Full documentation can be found here: https://docs.fossaa.tk ***soon***
 
 ## Support
 
