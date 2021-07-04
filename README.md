@@ -41,5 +41,5 @@ Full documentation can be found here: https://docs.fossaa.tk ***soon***
 
 ## Support 🤝
 
-Support in available in my discord server: [Here](https://discord.gg/Zg9mZbGBMy) 
+Support is available in my discord server: [Here](https://discord.gg/Zg9mZbGBMy) 
 
