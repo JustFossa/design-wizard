@@ -1,13 +1,12 @@
 
 # Design Wizard
 
-Best html developer's helper. It makes every styling for you website alot easier then writing whole **css** code just to make simple designing.
+Best html developer's helper. It makes every styling for you website alot easier then writing whole **css** code just to make simple designing. This package is still in it's very early days, so you can expect just very few features and maybe some bugs. I just want to apologize, but i am literally working hard to fix it. I hope you will enjoy my package. 👍
 
-## Installation
+## Installation ✅
 
->
+>package installation
 >```
->
 >npm install design-wizard
 >```
 >
@@ -25,15 +24,18 @@ Best html developer's helper. It makes every styling for you website alot easier
 >your **.html** file
 >```html
 > some code here...
-> <script src="path to your options file"></script>
+>
+> <script src="path-to-your-options-file"></script>
+>
+> some code here...
 >```
 
 
-## Documentation
+## Documentation 📔
 
 Full documentation can be found here: https://docs.fossaa.tk ***soon***
 
-## Support
+## Support 🤝
 
 Support in available in my discord server: [Here](https://discord.gg/Zg9mZbGBMy) 
 
