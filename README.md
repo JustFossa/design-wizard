@@ -40,7 +40,7 @@ Best html developer's helper. It makes every styling for you website alot easier
 
 ## Documentation 📔
 
-Full documentation can be found here: https://docs.fossaa.tk ***soon***
+Full documentation can be found here: https://www.fossaa.tk/ 
 
 ## Support 🤝
 
