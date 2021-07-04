@@ -5,9 +5,20 @@ Best html developer's helper. It makes every styling for you website alot easier
 
 ## Installation
 
->NPM
+
 >```
 >npm install design-wizard
+>```
+>
+>your .js file to describe options for designer
+>```js
+>import { designer } from "design-wizard"
+>
+>designer({
+>   shadow_style: , //hard or soft - required
+>   padding: , // true or false - required
+>   thickness: //thickness of the padding (can be written in: em, px...) - optional (if not described padding will  be 1em thick)      
+>})
 >```
 
 ## Documentation
