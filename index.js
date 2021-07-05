@@ -1,11 +1,10 @@
 import { size } from "./padding/padding-size"
 import { shadowbool } from "design-wizard/shadow/shadow"
 import { border } from "./border/border"
+import { outlinefunc } from "./outline/outline"
 
 function designer(options) {
-    size()
-    shadowbool()
-    border()
+    
 
     let padding = options.padding
     
@@ -25,11 +24,21 @@ function designer(options) {
 
     let border_width = options.border_width
 
+    let outline = options.outline
+
+    let outline_clr = options.outline_color
+
+    let outline_style = options.outline_style
+
+    let outline_thckns = options.outline_thickness
+
     localStorage.setItem("padding", padding)
     
     localStorage.setItem("shadow_type", shadow_type)
 
     localStorage.setItem("shadow", shadow)
+
+    localStorage.setItem("outline", options.outline)
 
     localStorage.setItem("border_bool", border_bool)
 
@@ -58,7 +67,25 @@ function designer(options) {
         localStorage.setItem("thickness", "1em")
     } else 
         localStorage.setItem("thickness", thickness)
+    if(!outline_clr){
+        localStorage.setItem("outline_clr", "black")
+    } else 
+        localStorage.setItem("outline_clr", outline_clr)
 
+    if(!outline_style) {
+        localStorage.setItem("outline_style", "solid")
+    } else 
+        localStorage.setItem("outline_style", outline_style)
+
+    if(!outline_thckns) {
+        localStorage.setItem("outline_thickness", "5px")
+    } else
+        localStorage.setItem("outline_thickness", outline_thckns)
+
+    size()
+    shadowbool()
+    border()
+    outlinefunc()
 }
 
 
