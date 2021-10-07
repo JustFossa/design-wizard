@@ -44,5 +44,5 @@ Full documentation can be found here: https://www.fossaa.tk/
 
 ## Support 🤝
 
-Support is available in my discord server: [Here](https://discord.gg/Zg9mZbGBMy) 
+Create an issue in issues tab and hope i'll respond :) 
 
